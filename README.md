@@ -21,9 +21,9 @@ To deploy an angular app run ```ng build```.
 
 ### Built With ###
 
-..* Angular 4
-..* TypeScript
-..* ES6
-..* Bootstrap
-..* Google Firebase
+* Angular 4
+* TypeScript
+* ES6
+* Bootstrap
+* Google Firebase
 
